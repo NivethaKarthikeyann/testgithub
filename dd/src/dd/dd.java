@@ -1,5 +1,5 @@
 package dd;
 
 public class dd {
-	//System.out.print("DD");dd
+	//System.out.print("DD");ddr
 }
