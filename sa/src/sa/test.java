@@ -9,6 +9,7 @@ public class test {
 		 YearMonth ym = YearMonth.now();  
 		    String s = ym.format(DateTimeFormatter.ofPattern("MM yyyy"));  
 		    System.out.println(s);  
+		    //updated the code on 11:43
 	}
 
 }
