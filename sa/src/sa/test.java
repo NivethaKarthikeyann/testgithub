@@ -10,6 +10,7 @@ public class test {
 		    String s = ym.format(DateTimeFormatter.ofPattern("MM yyyy"));  
 		    System.out.println(s);  
 		    //updated the code on 11:43
+		    //today update
 	}
 
 }
